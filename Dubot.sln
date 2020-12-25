@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dubot.BotConsole", "Dubot.BotConsole.csproj", "{C1700187-25A3-42B1-9C8B-134F8FC08854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dubot.Data", "..\Dubot.Data\Dubot.Data.csproj", "{3F81327B-3702-412B-8C96-38A55E49A08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1700187-25A3-42B1-9C8B-134F8FC08854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1700187-25A3-42B1-9C8B-134F8FC08854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1700187-25A3-42B1-9C8B-134F8FC08854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1700187-25A3-42B1-9C8B-134F8FC08854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F81327B-3702-412B-8C96-38A55E49A08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F81327B-3702-412B-8C96-38A55E49A08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F81327B-3702-412B-8C96-38A55E49A08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F81327B-3702-412B-8C96-38A55E49A08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4073840B-EB57-4F70-9186-BEB5B5F034A9}
+	EndGlobalSection
+EndGlobal
