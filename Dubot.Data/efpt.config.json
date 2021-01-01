@@ -49,6 +49,14 @@
          "ObjectType": 0
       },
       {
+         "Name": "[dbo].[Ores]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Planets]",
+         "ObjectType": 0
+      },
+      {
          "Name": "[dbo].[Settings]",
          "ObjectType": 0
       },

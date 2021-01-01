@@ -27,6 +27,8 @@ namespace Dubot.Data.Models
         public virtual DbSet<GuildSetting> GuildSettings { get; set; }
         public virtual DbSet<Item> Items { get; set; }
         public virtual DbSet<ItemCategory> ItemCategories { get; set; }
+        public virtual DbSet<Ore> Ores { get; set; }
+        public virtual DbSet<Planet> Planets { get; set; }
         public virtual DbSet<Setting> Settings { get; set; }
         public virtual DbSet<TimeZone> TimeZones { get; set; }
         public virtual DbSet<User> Users { get; set; }
@@ -139,6 +141,16 @@ namespace Dubot.Data.Models
                     .WithMany(p => p.InverseParentCategory)
                     .HasForeignKey(d => d.ParentCategoryId)
                     .HasConstraintName("FK_ItemCategories_ItemCategories");
+            });
+
+            modelBuilder.Entity<Ore>(entity =>
+            {
+                entity.Property(e => e.Id).ValueGeneratedNever();
+            });
+
+            modelBuilder.Entity<Planet>(entity =>
+            {
+                entity.Property(e => e.Id).ValueGeneratedNever();
             });
 
             modelBuilder.Entity<Setting>(entity =>
