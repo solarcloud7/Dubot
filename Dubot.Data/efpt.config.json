@@ -1,0 +1,88 @@
+﻿{
+   "ContextClassName": "DubaseContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "Dubot.Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[BotCommandAlias]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BotCommandParameter]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BotCommands]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CommandStats]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GuildMembers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Guilds]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GuildSettings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Items]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Settings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TimeZone]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Users]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CommandsPerDay]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[CommandsPerDayPerPerson]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[CommandsPerHour]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[CommandTotals]",
+         "ObjectType": 1
+      }
+   ],
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false
+}

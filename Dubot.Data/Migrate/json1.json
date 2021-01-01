@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Consumables",
+    "data": [
+      {
+        "name": "Ammo",
+        "data": []
+      },
+      {},
+      {
+        "name": "Materials",
+        "data": [
+          {
+            "name": "Catalysts",
+            "data": [
+              "Catalyst 3",
+              "Catalyst 4",
+              "Catalyst 5"
+            ]
+          },
+          {
+            "name": "Fuels",
+            "data": [
+              {
+                "name": "Atmospheric Fuels",
+                "data": [
+                  "Nitron Fuel"
+                ]
+              },
+              {
+                "name": "Rocket Fuels",
+                "data": [
+                  "Xeron Fuel"
+                ]
+              },
+              {
+                "name": "Space Fuels",
+                "data": [
+                  "Kergon-X1 Fuel",
+                  "Kergon-X2 Fuel",
+                  "Kergon-X3 Fuel",
+                  "Kergon-X4 Fuel"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Honeycomb Materials",
+            "data": [
+              {
+                "name": "Product Honeycomb",
+                "data": [
+                  "Brick Honeycomb",
+                  "Carbonfiber Honeycomb",
+                  "Concrete Honeycomb",
+                  "Marble Honeycomb",
+                  "Plastic Honeycomb",
+                  "Steel Honeycomb",
+                  "Wood Honeycomb",
+                  "Luminescent White Glass"
+                ]
+              },
+              {
+                "name": "Pure Honeycomb",
+                "data": [
+                  "Aluminium Honeycomb",
+                  "Carbon Honeycomb",
+                  "Iron Honeycomb",
+                  "Silicon Honeycomb",
+                  "Calcium Honeycomb",
+                  "Chromium Honeycomb",
+                  "Copper Honeycomb",
+                  "Sodium Honeycomb",
+                  "Lithium Honeycomb",
+                  "Nickel Honeycomb",
+                  "Silver Honeycomb",
+                  "Sulfur Honeycomb",
+                  "Cobalt Honeycomb",
+                  "Fluorine Honeycomb",
+                  "Gold Honeycomb",
+                  "Scandium Honeycomb",
+                  "Manganese Honeycomb",
+                  "Niobium Honeycomb",
+                  "Titanium Honeycomb",
+                  "Vanadium Honeycomb"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Product",
+            "data": [
+              "Advanced Glass",
+              "Ag-Li Reinforced Glass",
+              "Al-Fe Alloy",
+              "Al-Li Alloy",
+              "Biological Matter",
+              "Brick",
+              "Calcium Reinforced Copper",
+              "Carbon Fiber",
+              "Cu-Ag Alloy",
+              "Concrete",
+              "Duralumin",
+              "Fluoropolymer",
+              "Glass",
+              "Gold Coated Glass",
+              "Grade 5 Titanium Alloy",
+              "Inconel",
+              "Mangalloy",
+              "Manganese Reinforced Glass",
+              "Maraging Steel",
+              "Marble",
+              "Polycalcite Plastic",
+              "Polycarbonate Plastic",
+              "Polysulfide Plastic",
+              "Red Gold",
+              "Sc-Al Alloy",
+              "Silumin",
+              "Stainless Steel",
+              "Steel",
+              "Ti-Nb Supraconductor",
+              "Vanamer",
+              "Wood"
+            ]
+          },
+          {
+            "name": "Pure",
+            "data": [
+              "Aluminium Pure",
+              "Calcium Pure",
+              "Carbon Pure",
+              "Chromium Pure",
+              "Cobalt Pure",
+              "Copper Pure",
+              "Gold Pure",
+              "Iron Pure",
+              "Fluorine Pure",
+              "Lithium Pure",
+              "Manganese Pure",
+              "Nickel Pure",
+              "Niobium Pure",
+              "Scandium Pure",
+              "Silicon Pure",
+              "Silver Pure",
+              "Sodium Pure",
+              "Sulfur Pure",
+              "Titanium Pure",
+              "Vanadium Pure"
+            ]
+          },
+          {
+            "name": "Ore",
+            "data": [
+              "Acanthite",
+              "Bauxite",
+              "Chromite",
+              "Coal",
+              "Cobaltite",
+              "Columbite",
+              "Cryolite",
+              "Garnierite",
+              "Gold Nuggets",
+              "Hematite",
+              "Illmenite",
+              "Kolbeckite",
+              "Limestone",
+              "Malachite",
+              "Natron",
+              "Petalite",
+              "Pyrite",
+              "Quartz",
+              "Rhodonite",
+              "Vanadinite"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Scraps",
+        "data": [
+          "Aluminium Scrap",
+          "Calcium Scrap",
+          "Carbon Scrap",
+          "Chromium Scrap",
+          "Cobalt Scrap",
+          "Copper Scrap",
+          "Gold Scrap",
+          "Iron Scrap",
+          "Fluorine Scrap",
+          "Lithium Scrap",
+          "Nickel Scrap",
+          "Scandium Scrap",
+          "Silicon Scrap",
+          "Silver Scrap",
+          "Sodium Scrap",
+          "Sulfur Scrap"
+        ]
+      },
+      {
+        "name": "Warp Cells",
+        "data": [
+          "Warp Cell"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Parts",
+    "data": [
+      {
+        "name": "Complex Parts",
+        "data": [
+          {
+            "name": "Anti-Matter Capsules",
+            "data": [
+              "Basic Anti-Matter Capsule",
+              "Uncommon Anti-Matter Capsule",
+              "Advanced Anti-Matter Capsule",
+              "Rare Anti-Matter Capsule",
+              "Exotic Anti-Matter Capsule"
+            ]
+          },
+          {
+            "name": "Burners",
+            "data": [
+              "Basic Burner",
+              "Uncommon Burner",
+              "Advanced Burner"
+            ]
+          },
+          {
+            "name": "Electronics",
+            "data": [
+              "Basic Electronics",
+              "Uncommon Electronics",
+              "Advanced Electronics",
+              "Rare Electronics",
+              "Exotic Electronics"
+            ]
+          },
+          {
+            "name": "Explosive Modules",
+            "data": [
+              "Basic Explosive Module",
+              "Uncommon Explosive Module",
+              "Advanced Explosive Module"
+            ]
+          },
+          {
+            "name": "Hydraulics",
+            "data": [
+              "Basic Hydraulics",
+              "Uncommon Hydraulics",
+              "Advanced Hydraulics"
+            ]
+          },
+          {
+            "name": "Injectors",
+            "data": [
+              "Basic Injector",
+              "Advanced Injector"
+            ]
+          },
+          {
+            "name": "Magnets",
+            "data": [
+              "Basic Magnet",
+              "Uncommon Magnet",
+              "Advanced Magnet",
+              "Rare Magnet",
+              "Exotic Magnet"
+            ]
+          },
+          {
+            "name": "Optics",
+            "data": [
+              "Basic Optics",
+              "Uncommon Optics",
+              "Advanced Optics",
+              "Rare Optics"
+            ]
+          },
+          {
+            "name": "Power Systems",
+            "data": [
+              "Basic Power System",
+              "Uncommon Power System",
+              "Advanced Power System",
+              "Rare Power System",
+              "Exotic Power System"
+            ]
+          },
+          {
+            "name": "Processors",
+            "data": [
+              "Basic Processor",
+              "Uncommon Processor",
+              "Advanced Processor",
+              "Exotic Processor"
+            ]
+          },
+          {
+            "name": "Quantum Cores",
+            "data": [
+              "Basic Quantum Core",
+              "Uncommon Quantum Core",
+              "Advanced Quantum Core",
+              "Rare Quantum Core",
+              "Exotic Quantum Core"
+            ]
+          },
+          {
+            "name": "Singularity Containers",
+            "data": [
+              "Basic Singularity Container",
+              "Uncommon Singularity Container",
+              "Advanced Singularity Container",
+              "Rare Singularity Container",
+              "Exotic Singularity Container"
+            ]
+          },
+          {
+            "name": "Solid Warhead",
+            "data": [
+              "Uncommon Solid Warhead",
+              "Advanced Solid Warhead"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Exceptional Parts",
+        "data": [
+          {
+            "name": "Anti-Gravity Cores",
+            "data": [
+              "Advanced Anti-Gravity Core",
+              "Rare Anti-Gravity Core",
+              "Exotic Anti-Gravity Core"
+            ]
+          },
+          {
+            "name": "Anti-Matter Core Units",
+            "data": [
+              "Advanced Anti-Matter Core Unit",
+              "Exotic Anti-Matter Core Unit"
+            ]
+          },
+          {
+            "name": "Quantum Alignment Units",
+            "data": [
+              "Advanced Quantum Alignment Unit",
+              "Exotic Quantum Alignment Unit"
+            ]
+          },
+          {
+            "name": "Quantum Barriers",
+            "data": [
+              "Advanced Quantum Barrier"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Intermediary Parts",
+        "data": [
+          {
+            "name": "Components",
+            "data": [
+              "Basic Component",
+              "Uncommon Component",
+              "Advanced Component"
+            ]
+          },
+          {
+            "name": "Connectors",
+            "data": [
+              "Basic Connector",
+              "Uncommon Connector",
+              "Advanced Connector"
+            ]
+          },
+          {
+            "name": "Fixations",
+            "data": [
+              "Basic Fixation",
+              "Uncommon Fixation",
+              "Advanced Fixation"
+            ]
+          },
+          {
+            "name": "LEDs",
+            "data": [
+              "Basic LED",
+              "Uncommon LED",
+              "Advanced LED"
+            ]
+          },
+          {
+            "name": "Pipes",
+            "data": [
+              "Basic Pipe",
+              "Uncommon Pipe",
+              "Advanced Pipe"
+            ]
+          },
+          {
+            "name": "Screws",
+            "data": [
+              "Basic Screw",
+              "Uncommon Screw",
+              "Advanced Screw"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Functional Parts",
+        "data": [
+          {
+            "name": "Antennas",
+            "data": [
+              "Basic Antenna XS",
+              "Basic Antenna S",
+              "Uncommon Antenna S",
+              "Uncommon Antenna M",
+              "Uncommon Antenna L",
+              "Exotic Antenna M",
+              "Exotic Antenna L",
+              "Exotic Antenna XL"
+            ]
+          },
+          {
+            "name": "Chemical Containers",
+            "data": [
+              "Basic Chemical Container XS",
+              "Basic Chemical Container S",
+              "Basic Chemical Container M",
+              "Basic Chemical Container L",
+              "Basic Chemical Container XL",
+              "Advanced Chemical Container S",
+              "Advanced Chemical Container M",
+              "Advanced Chemical Container L",
+              "Advanced Chemical Container XL"
+            ]
+          },
+          {
+            "name": "Combustion Chambers",
+            "data": [
+              "Basic Combustion Chamber XS",
+              "Basic Combustion Chamber S",
+              "Basic Combustion Chamber M",
+              "Basic Combustion Chamber L",
+              "Advanced Combustion Chamber XS",
+              "Advanced Combustion Chamber S",
+              "Advanced Combustion Chamber M"
+            ]
+          },
+          {
+            "name": "Control Systems",
+            "data": [
+              "Basic Control System XS",
+              "Basic Control System S",
+              "Basic Control System M",
+              "Advanced Control System S",
+              "Advanced Control System M",
+              "Advanced Control System L"
+            ]
+          },
+          {
+            "name": "Core Systems",
+            "data": [
+              "Basic Core System XS",
+              "Basic Core System S",
+              "Uncommon Core System S",
+              "Uncommon Core System M",
+              "Uncommon Core System L",
+              "Advanced Core System M",
+              "Rare Core System L",
+              "Exotic Core System S"
+            ]
+          },
+          {
+            "name": "Electric Engines",
+            "data": [
+              "Basic Electric Engine S",
+              "Basic Electric Engine M",
+              "Uncommon Electric Engine XL"
+            ]
+          },
+          {
+            "name": "Firing Systems",
+            "data": [
+              "Basic Firing System XS",
+              "Advanced Firing System XS",
+              "Advanced Firing System S",
+              "Advanced Firing System M",
+              "Advanced Firing System L"
+            ]
+          },
+          {
+            "name": "Gas Cylinders",
+            "data": [
+              "Basic Gas Cylinder XS",
+              "Basic Gas Cylinder S",
+              "Basic Gas Cylinder M"
+            ]
+          },
+          {
+            "name": "Ionic Chambers",
+            "data": [
+              "Basic Ionic Chamber XS",
+              "Basic Ionic Chamber S",
+              "Basic Ionic Chamber M",
+              "Basic Ionic Chamber L",
+              "Basic Ionic Chamber XL",
+              "Uncommon Ionic Chamber XS",
+              "Uncommon Ionic Chamber S",
+              "Uncommon Ionic Chamber M",
+              "Uncommon Ionic Chamber L",
+              "Uncommon Ionic Chamber XL",
+              "Advanced Ionic Chamber M",
+              "Advanced Ionic Chamber L"
+            ]
+          },
+          {
+            "name": "Laser Chambers",
+            "data": [
+              "Uncommon Laser Chamber XS",
+              "Advanced Laser Chamber XS",
+              "Advanced Laser Chamber S",
+              "Advanced Laser Chamber M",
+              "Advanced Laser Chamber L",
+              "Rare Laser Chamber S"
+            ]
+          },
+          {
+            "name": "Lights",
+            "data": [
+              "Uncommon Light XS",
+              "Uncommon Light S"
+            ]
+          },
+          {
+            "name": "Magnetic Rails",
+            "data": [
+              "Advanced Magnetic Rail XS",
+              "Advanced Magnetic Rail S",
+              "Advanced Magnetic Rail M",
+              "Advanced Magnetic Rail L"
+            ]
+          },
+          {
+            "name": "Mechanical Sensors",
+            "data": [
+              "Basic Mechanical Sensor XS",
+              "Advanced Mechanical Sensor XS",
+              "Exotic Mechanical Sensor XS"
+            ]
+          },
+          {
+            "name": "Missile Silos",
+            "data": [
+              "Advanced Missile Silo XS",
+              "Advanced Missile Silo S",
+              "Advanced Missile Silo M",
+              "Advanced Missile Silo L"
+            ]
+          },
+          {
+            "name": "Mobile Panels",
+            "data": [
+              "Basic Mobile Panel XS",
+              "Basic Mobile Panel S",
+              "Basic Mobile Panel M",
+              "Basic Mobile Panel L",
+              "Basic Mobile Panel XL"
+            ]
+          },
+          {
+            "name": "Motherboards",
+            "data": [
+              "Advanced Motherboard M"
+            ]
+          },
+          {
+            "name": "Ore Scanners",
+            "data": [
+              "Uncommon Ore Scanner XL"
+            ]
+          },
+          {
+            "name": "Power Transformers",
+            "data": [
+              "Basic Power Transformer M",
+              "Uncommon Power Transformer S",
+              "Uncommon Power Transformer M",
+              "Rare Power Transformer L",
+              "Rare Power Transformer XL",
+              "Exotic Power Transformer L"
+            ]
+          },
+          {
+            "name": "Robotic Arms",
+            "data": [
+              "Basic Robotic Arm M",
+              "Basic Robotic Arm L",
+              "Basic Robotic Arm XL"
+            ]
+          },
+          {
+            "name": "Screens",
+            "data": [
+              "Basic Screen M",
+              "Uncommon Screen XS",
+              "Uncommon Screen XL",
+              "Advanced Screen XS"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Structural Parts",
+        "data": [
+          {
+            "name": "Casings",
+            "data": [
+              "Basic Casing XS",
+              "Basic Casing S",
+              "Uncommon Casing XS",
+              "Uncommon Casing S",
+              "Uncommon Casing M",
+              "Uncommon Casing XL",
+              "Advanced Casing XS",
+              "Advanced Casing S",
+              "Advanced Casing M",
+              "Advanced Casing L",
+              "Advanced Casing XL",
+              "Rare Casing XS",
+              "Rare Casing S",
+              "Exotic Casing S"
+            ]
+          },
+          {
+            "name": "Reinforced Frames",
+            "data": [
+              "Basic Reinforced Frame XS",
+              "Basic Reinforced Frame S",
+              "Basic Reinforced Frame M",
+              "Basic Reinforced Frame L",
+              "Basic Reinforced Frame XL",
+              "Uncommon Reinforced Frame XS",
+              "Uncommon Reinforced Frame S",
+              "Uncommon Reinforced Frame M",
+              "Uncommon Reinforced Frame L",
+              "Uncommon Reinforced Frame XL",
+              "Advanced Reinforced Frame XS",
+              "Advanced Reinforced Frame S",
+              "Advanced Reinforced Frame M",
+              "Advanced Reinforced Frame L",
+              "Rare Reinforced Frame L",
+              "Rare Reinforced Frame XL",
+              "Exotic Reinforced Frame M",
+              "Exotic Reinforced Frame L",
+              "Exotic Reinforced Frame XL"
+            ]
+          },
+          {
+            "name": "Standard Frames",
+            "data": [
+              "Basic Standard Frame XS",
+              "Basic Standard Frame S",
+              "Basic Standard Frame M",
+              "Basic Standard Frame L",
+              "Uncommon Standard Frame XS",
+              "Uncommon Standard Frame S",
+              "Uncommon Standard Frame M",
+              "Uncommon Standard Frame L",
+              "Advanced Standard Frame XS",
+              "Advanced Standard Frame S",
+              "Advanced Standard Frame M",
+              "Advanced Standard Frame L",
+              "Rare Standard Frame L",
+              "Exotic Standard Frame XS",
+              "Exotic Standard Frame L"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
