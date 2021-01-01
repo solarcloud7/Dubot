@@ -142,7 +142,7 @@ namespace Dubot
         public async Task RegisterCommandsAsync()
         {
             _client.MessageReceived += HandleCommandAsync;
-            var assembly = AppDomain.CurrentDomain.GetAssemblies().FirstOrDefault(x => x.FullName.Contains("Dubot.BotConsole"));
+            var assembly = AppDomain.CurrentDomain.GetAssemblies().FirstOrDefault(x => x.FullName.Contains("Dubot.Bot"));
             await _commands.AddModulesAsync(assembly, _services);
             Commands = _commands.Commands.ToList();
         }
